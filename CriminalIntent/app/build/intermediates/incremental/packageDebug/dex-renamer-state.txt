@@ -1,0 +1,7 @@
+#Wed Oct 11 19:26:24 CST 2017
+base.0=/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5ab7f99abb70790080c743aae1dee32e65640ca
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a5f6d006b73636aa373baf8e249d4200da2e6c27/classes.dex
+base.1=/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a5f6d006b73636aa373baf8e249d4200da2e6c27
+file.0=/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5ab7f99abb70790080c743aae1dee32e65640ca/classes.dex

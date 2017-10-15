@@ -8,6 +8,7 @@ import com.bignerdranch.android.criminalintent.database.CrimeDbSchema.CrimeTable
 
 /**
  * Created by james_huker on 8/24/17.
+ * 这是数据库文档
  */
 
 public class CrimeBaseHelper extends SQLiteOpenHelper{

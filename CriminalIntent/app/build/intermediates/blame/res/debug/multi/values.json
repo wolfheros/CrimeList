@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -1396,7 +1396,7 @@
                     "endOffset": 6230
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/colors.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1415,7 +1415,7 @@
                     "endOffset": 6277
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/colors.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1434,7 +1434,7 @@
                     "endOffset": 6328
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/colors.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4512,7 +4512,7 @@
                     "endOffset": 42753
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/refs.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/refs.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -5120,7 +5120,7 @@
                     "endOffset": 45043
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -5139,7 +5139,7 @@
                     "endOffset": 45110
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -5158,7 +5158,7 @@
                     "endOffset": 45166
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -5177,7 +5177,7 @@
                     "endOffset": 45264
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -5196,7 +5196,7 @@
                     "endOffset": 45337
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -5215,7 +5215,7 @@
                     "endOffset": 45404
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -5234,7 +5234,7 @@
                     "endOffset": 45481
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -5253,7 +5253,7 @@
                     "endOffset": 45549
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -5272,7 +5272,7 @@
                     "endOffset": 45613
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -5291,7 +5291,7 @@
                     "endOffset": 45686
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -5310,7 +5310,7 @@
                     "endOffset": 45740
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -5329,7 +5329,7 @@
                     "endOffset": 45802
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -5348,7 +5348,7 @@
                     "endOffset": 45875
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -5367,7 +5367,7 @@
                     "endOffset": 45927
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -5386,7 +5386,7 @@
                     "endOffset": 45987
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -5405,7 +5405,7 @@
                     "endOffset": 46043
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -5424,7 +5424,7 @@
                     "endOffset": 46091
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -5462,7 +5462,7 @@
                     "endOffset": 46206
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -5481,7 +5481,7 @@
                     "endOffset": 46262
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -5519,7 +5519,7 @@
                     "endOffset": 46389
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/strings.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -5615,7 +5615,7 @@
                     "endOffset": 47060
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values/styles.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

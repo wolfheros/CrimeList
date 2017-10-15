@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "outputFile": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -163,7 +163,7 @@
                     "endOffset": 691
                 },
                 "from": {
-                    "file": "/Users/james_huker/Documents/Application_Program/CriminalIntent/app/src/main/res/values-sw600dp/refs.xml",
+                    "file": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/values-sw600dp/refs.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

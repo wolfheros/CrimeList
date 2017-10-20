@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "outputFile": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "file": "C:\\Users\\James Huker\\.android\\build-cache\\0cc675b421189659aaf3487de5255b3bc5506e11\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

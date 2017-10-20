@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\James Huker\\.android\\build-cache\\0cc675b421189659aaf3487de5255b3bc5506e11\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/layout-v21/notification_action.xml"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\James Huker\\.android\\build-cache\\0cc675b421189659aaf3487de5255b3bc5506e11\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\James Huker\\.android\\build-cache\\0cc675b421189659aaf3487de5255b3bc5506e11\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/james_huker/.android/build-cache/ba10405eef58c740f1ec8a7a93bfc0f4192467c9/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\James Huker\\.android\\build-cache\\0cc675b421189659aaf3487de5255b3bc5506e11\\output\\res\\layout-v21\\notification_action.xml"
     }
 ]

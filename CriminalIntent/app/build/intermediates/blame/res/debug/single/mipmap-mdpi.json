@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
-        "source": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

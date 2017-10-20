@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photo_camera_white_24dp.png",
-        "source": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_photo_camera_white_24dp.png"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_photo_camera_white_24dp.png",
+        "source": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photo_camera_white_24dp.png"
     },
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_add.png",
-        "source": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_menu_add.png"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_add.png",
+        "source": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_add.png"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/james_huker/.android/build-cache/2de39b3900f678441649b294ac9014ff08f0a17f/output/res/values/values.xml",
+                    "file": "C:\\Users\\James Huker\\.android\\build-cache\\f1bbae7e33a89f62b023869d7a44c9d74102c725\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

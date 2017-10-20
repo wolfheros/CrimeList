@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/build/intermediates/res/merged/debug/menu/fragment_crime_list.xml",
-        "source": "/Users/james_huker/Git_Android_sample_code/CriminalIntent/app/src/main/res/menu/fragment_crime_list.xml"
+        "merged": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_crime_list.xml",
+        "source": "F:\\GoogleGitSource\\CrimeList\\CriminalIntent\\app\\src\\main\\res\\menu\\fragment_crime_list.xml"
     }
 ]

@@ -30,10 +30,9 @@ import java.io.File;
 import java.util.Date;
 import java.util.UUID;
 
-import static android.R.attr.data;
-
 /**
  * Created by james_huker on 8/5/17.
+ * 此类的作用是展示详细试图
  */
 
 public class CrimeFragment extends Fragment {
@@ -56,11 +55,12 @@ public class CrimeFragment extends Fragment {
     /**
      * Required interface for hostig activities
      */
-    public interface Callbacks{
+    interface Callbacks{
         void onCrimeUpdated(Crime crime);
     }
 
     // 创建Fragment并添加Bundle键值对。Bundle 对象作为Argument添加进Fragment中。
+    // 将对应的CrimeID放入对应选取的fragment中。
     public static CrimeFragment newInstance(UUID crimeId) {
         Bundle args = new Bundle();
         args.putSerializable(ARG_CRIME_ID , crimeId);
@@ -69,7 +69,7 @@ public class CrimeFragment extends Fragment {
         fragment.setArguments(args);
         return  fragment;
     }
-    @Override
+    @Override @Deprecated
     public void onAttach(Activity activity) {
         super.onAttach(activity);
         mCallbacks = (Callbacks) activity;
@@ -78,7 +78,7 @@ public class CrimeFragment extends Fragment {
     public void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // 获取一个crime对象。这个crime最初来源是点击列表后由系统传入的。
-        // 从Fragment中获取argument然后在获取里面的，UUID数据。
+        // 从Fragment中获取argument然后在获取里面的，UUID数据。再通过UUID获取对应的Crime对象。
         UUID crimeId = (UUID) this.getArguments().getSerializable(ARG_CRIME_ID);
         mCrime = (CrimeLab.get(getActivity())   // 获取一个CrimeLab对象，然后调用它的getCrime方法。
                 .getCrime(crimeId));
@@ -158,7 +158,7 @@ public class CrimeFragment extends Fragment {
                 i.setType("text/plain");
                 i.putExtra(Intent.EXTRA_TEXT , getCrimeReport());
                 i.putExtra(Intent.EXTRA_SUBJECT , getString(R.string.crime_report_subject));
-                /**
+                /*
                  *  可以取消用户的默认选项设置。
                  **/
                 i = Intent.createChooser(i , getString(R.string.send_report));
@@ -272,7 +272,7 @@ public class CrimeFragment extends Fragment {
     }
 
     private String getCrimeReport() {
-        String solvedString = null;
+        String solvedString ;
         if(mCrime.isSolved()) {
             solvedString = getString(R.string.crime_report_solved);
         } else {
@@ -289,9 +289,8 @@ public class CrimeFragment extends Fragment {
             suspect = getString(R.string.crime_report_suspect , suspect);
         }
 
-        String report = getString(R.string.crime_report , mCrime.getTitle(), dateString , solvedString , suspect);
+         return getString(R.string.crime_report , mCrime.getTitle(), dateString , solvedString , suspect);
 
-        return report;
     }
 
     private void updatePhotoView(){

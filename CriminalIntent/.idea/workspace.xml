@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d38f7f4b-51e7-489e-bd9c-3cfa47e820e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CriminalIntent.iws" />
@@ -122,9 +123,8 @@
             <state relative-caret-position="513">
               <caret line="34" column="78" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#CrimeBaseHelper#0" expanded="false" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +136,7 @@
             <state relative-caret-position="361">
               <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#CrimeLab#0" expanded="false" />
                 <element signature="docComment;method#get#0;class#CrimeLab#0" expanded="false" />
                 <element signature="method#get#0;class#CrimeLab#0" expanded="false" />
@@ -157,10 +158,17 @@
             <state relative-caret-position="741">
               <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#CrimeListFragment#0" expanded="false" />
                 <element signature="docComment;class#Callbacks#0;class#CrimeListFragment#0" expanded="false" />
                 <element signature="method#onAttach#0;class#CrimeListFragment#0" expanded="false" />
                 <element signature="class#CrimeAdapter#0;class#CrimeListFragment#0" expanded="false" />
+                <element signature="e#6651#6652#0" expanded="false" />
+                <element signature="e#6691#6692#0" expanded="false" />
+                <element signature="e#7376#7377#0" expanded="false" />
+                <element signature="e#7421#7422#0" expanded="false" />
+                <element signature="e#7474#7475#0" expanded="false" />
+                <element signature="e#7514#7515#0" expanded="false" />
                 <element signature="method#onDetach#0;class#CrimeListFragment#0" expanded="false" />
               </folding>
             </state>
@@ -173,7 +181,12 @@
             <state relative-caret-position="247">
               <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#CrimeListActivity#0" expanded="false" />
+                <element signature="e#350#351#0" expanded="false" />
+                <element signature="e#396#397#0" expanded="false" />
+                <element signature="e#446#447#0" expanded="false" />
+                <element signature="e#499#500#0" expanded="false" />
                 <element signature="method#onCrimeUpdated#0;class#CrimeListActivity#0" expanded="false" />
               </folding>
             </state>
@@ -194,7 +207,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="FORCE_PUSH_ALLOWED" value="true" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2213,7 +2228,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="Nexus_5X_API_21" />
@@ -2602,7 +2617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508584441633</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update By win10 2017-10-21">
+      <created>1508584451731</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1508584451731</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -2767,7 +2789,12 @@
         <state relative-caret-position="247">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#CrimeListActivity#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#499#500#0" expanded="false" />
             <element signature="method#onCrimeUpdated#0;class#CrimeListActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2778,10 +2805,17 @@
         <state relative-caret-position="741">
           <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#CrimeListFragment#0" expanded="false" />
             <element signature="docComment;class#Callbacks#0;class#CrimeListFragment#0" expanded="false" />
             <element signature="method#onAttach#0;class#CrimeListFragment#0" expanded="false" />
             <element signature="class#CrimeAdapter#0;class#CrimeListFragment#0" expanded="false" />
+            <element signature="e#6651#6652#0" expanded="false" />
+            <element signature="e#6691#6692#0" expanded="false" />
+            <element signature="e#7376#7377#0" expanded="false" />
+            <element signature="e#7421#7422#0" expanded="false" />
+            <element signature="e#7474#7475#0" expanded="false" />
+            <element signature="e#7514#7515#0" expanded="false" />
             <element signature="method#onDetach#0;class#CrimeListFragment#0" expanded="false" />
           </folding>
         </state>
@@ -2807,9 +2841,8 @@
         <state relative-caret-position="513">
           <caret line="34" column="78" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#CrimeBaseHelper#0" expanded="false" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2819,6 +2852,7 @@
         <state relative-caret-position="361">
           <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#CrimeLab#0" expanded="false" />
             <element signature="docComment;method#get#0;class#CrimeLab#0" expanded="false" />
             <element signature="method#get#0;class#CrimeLab#0" expanded="false" />
@@ -2846,8 +2880,8 @@
         <state relative-caret-position="198">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="false" />
+            <element signature="e#358#359#0" expanded="false" />
           </folding>
         </state>
       </provider>

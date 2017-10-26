@@ -1,18 +1,37 @@
 -- Merging decision tree log ---
 manifest
 ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b50091b4878e659d5dbbe502b5ff612\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\ecf57a12d3003c905ccff788483ea958\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:3:5-54
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
-		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:4:5-5:50
 	android:maxSdkVersion
@@ -27,26 +46,36 @@ ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManif
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:6:19-57
 application
 ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:8:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.android\build-cache\9f63becc45baf00061453fdc0d5efe29558b8fba\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\0cc675b421189659aaf3487de5255b3bc5506e11\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\cd5bbc2d75b6c15cd93705bb116a4656040c2dc5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\a23d4d3f52050ec2f225e6101bb6eff92a2a571b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\1e8c81447dfdb693a0d76df5ec186d95c99925dd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\cf5e1069693d44d21a3294068342844c24b6cfdd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\01e3e831939d6a45b5d571b5d661507c8517e79d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\6a0adfb28186b4b0226e98163bb0ff79c542c3fa\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\ee156f72150db3ccc385dc68c60efe8903bd050f\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\6b96b078d7d10dbbe2538c7242ec09eadfa55da3\output\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:11:9-41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b50091b4878e659d5dbbe502b5ff612\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b50091b4878e659d5dbbe502b5ff612\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:29:5-20
 	android:supportsRtl
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:12:9-54
-	android:allowBackup
-		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.bignerdranch.android.criminalintent.CrimeListActivity
@@ -65,45 +94,71 @@ ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManif
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.bignerdranch.android.criminalintent.CrimePagerActivity
 ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:22:9-25:20
-	android:label
-		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:23:21-53
 	android:parentActivityName
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:24:21-68
+	android:label
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:23:21-53
 	android:name
 		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml:22:19-53
 uses-sdk
 INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.android\build-cache\9f63becc45baf00061453fdc0d5efe29558b8fba\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\e65430970b8d547d76f6c21e0ff78dcf4b3d6edb\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\0cc675b421189659aaf3487de5255b3bc5506e11\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\cd5bbc2d75b6c15cd93705bb116a4656040c2dc5\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\a23d4d3f52050ec2f225e6101bb6eff92a2a571b\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\1e8c81447dfdb693a0d76df5ec186d95c99925dd\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\cf5e1069693d44d21a3294068342844c24b6cfdd\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\01e3e831939d6a45b5d571b5d661507c8517e79d\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\6a0adfb28186b4b0226e98163bb0ff79c542c3fa\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\ee156f72150db3ccc385dc68c60efe8903bd050f\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\6b96b078d7d10dbbe2538c7242ec09eadfa55da3\output\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b50091b4878e659d5dbbe502b5ff612\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b50091b4878e659d5dbbe502b5ff612\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\ecf57a12d3003c905ccff788483ea958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\ecf57a12d3003c905ccff788483ea958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\0cc675b421189659aaf3487de5255b3bc5506e11\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 		INJECTED from F:\GoogleGitSource\CrimeList\CriminalIntent\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\e65430970b8d547d76f6c21e0ff78dcf4b3d6edb\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\0cc675b421189659aaf3487de5255b3bc5506e11\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\cd5bbc2d75b6c15cd93705bb116a4656040c2dc5\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\a23d4d3f52050ec2f225e6101bb6eff92a2a571b\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\1e8c81447dfdb693a0d76df5ec186d95c99925dd\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\cf5e1069693d44d21a3294068342844c24b6cfdd\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\01e3e831939d6a45b5d571b5d661507c8517e79d\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\6a0adfb28186b4b0226e98163bb0ff79c542c3fa\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\ee156f72150db3ccc385dc68c60efe8903bd050f\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\6b96b078d7d10dbbe2538c7242ec09eadfa55da3\output\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\af99eaa031b4b8f02880e3e8c9443808\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\ecf57a12d3003c905ccff788483ea958\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\ecf57a12d3003c905ccff788483ea958\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\927fc0989e3cda62ba3b0a66329ed12a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\c22abe7ac35e4073bb3074e318e61896\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\84b503052a421e8725f6fb49d20dcb97\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\d74d58ad2ddab15604bb90ff0e086964\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\39e176e6c81720e347c8386ec884b4e7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d319827807e8fe65a4a57f2aef33ca76\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c0f2815d949657cdcc4ca7ae07a3c3f3\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\e65430970b8d547d76f6c21e0ff78dcf4b3d6edb\output\AndroidManifest.xml:24:9-38
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\James Huker\.android\build-cache\e65430970b8d547d76f6c21e0ff78dcf4b3d6edb\output\AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\James Huker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\fc4f0a0179c57b5c18395abded512b4a\AndroidManifest.xml:26:9-47

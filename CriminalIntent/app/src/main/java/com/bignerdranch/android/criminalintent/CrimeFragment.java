@@ -185,6 +185,7 @@ public class CrimeFragment extends Fragment {
         if(packageManager.resolveActivity(pickContact , PackageManager.MATCH_DEFAULT_ONLY) == null) {
             mSuspectButton.setEnabled(false);
         }
+
         mPhotoButton = (ImageButton) v.findViewById(R.id.crime_camera);
         final Intent captureImage = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         // 判断文件储存位置不能为空。并且包含可以执行captureImage intent的activity。

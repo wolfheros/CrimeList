@@ -117,6 +117,7 @@ public class CrimeLab {
                 null,
                 null,
                 null);
+        // 根据获得的Cursor 对象创建一个CrimeCursorWrapper对象。
         return new CrimeCursorWrapper(cursor);
     }
 

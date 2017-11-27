@@ -52,6 +52,7 @@ public class CrimeListFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // 通知FragmentManager ，此可以接fragment菜单调用请求。
         setHasOptionsMenu(true);
 
     }
